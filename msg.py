@@ -8,14 +8,14 @@ To start extracting URLs, simply send /app. 📲
 <blockquote><i>🔓 I support over 100+ apps for seamless URL extraction.
 📥 After extracting the URLs, you can easily download the videos/pdfs using any of my Uploader Bot.⏬</blockquote></i>
 
-<u>For any queries, contact [BOT OWNER 🤖](https://t.me/chiru52)</u></b>
+<u>For any queries, contact [BOT OWNER 🤖](https://t.me/Dreamteamapp)</u></b>
 """
 
 APP = """
 <b><i>👋 Hey there! I'm your Txt Extractor bot!🤖</i>
 
 
-<blockquote>🚨 If you encounter any issues or can't extract any text file, just contact your [BOT OWNER 🤖](https://t.me/chiru52).
+<blockquote>🚨 If you encounter any issues or can't extract any text file, just contact your [BOT OWNER 🤖](https://t.me/Dreamteamapp).
 
 💬 Got an app you'd like to add? Feel free to reach out to me anytime!</blockquote>
 
@@ -83,5 +83,5 @@ auth = """
 <u><i>🚀Enjoy your access for {} days!</u></i>
 
 
-If you need any assistance, feel free to contact [Your Dealer 🤝](https://t.me/chiru52)</b>
+If you need any assistance, feel free to contact [Your Dealer 🤝](https://t.me/Dreamteamapp)</b>
 """
